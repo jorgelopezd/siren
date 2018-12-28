@@ -53,7 +53,7 @@ setup(
         'Programming Language :: Python :: 3.6',
     ],
 
-    keywords='security, home, camera',
+    keywords='security home camera',
     packages=find_packages(exclude=['test']),
     install_requires=get_requirements('default.txt'),
     setup_requires=get_requirements('test.txt'),
